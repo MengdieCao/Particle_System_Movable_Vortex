@@ -97,7 +97,7 @@ void draw() {
   } else {
     vortex = null;
   }
-  saveFrame("frames/####.png");
+  //saveFrame("frames/####.png");
 }
 
 void keyPressed() {
